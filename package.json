@@ -1,0 +1,26 @@
+{
+  "name": "npm-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wmx1/npm-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wmx1/npm-demo/issues"
+  },
+  "homepage": "https://github.com/wmx1/npm-demo#readme",
+  "dependencies": {
+    "art-template": "^4.12.2",
+    "jquery": "^3.3.1",
+    "marked": "^0.3.12",
+    "mime": "^2.2.0"
+  }
+}
